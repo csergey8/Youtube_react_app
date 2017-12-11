@@ -15,9 +15,13 @@
 }
 
 .list-group-item {
-    cursor: pointer; 
+    cursor: pointer;
 }
 
 .list-group-item:hover {
     background-color: #eee;
+}
+
+input {
+  width: 500px;
 }
